@@ -29,7 +29,7 @@ SATTVA NANCHA SVAHA
 - WIKI:
   - [Akshobhya](https://en.wikipedia.org/wiki/Akshobhya)
   - [阿閦佛心咒](https://zh.wikipedia.org/wiki/%E9%98%BF%E9%96%A6%E4%BD%9B%E5%BF%83%E5%92%92)
-- YouTube:
+- VIDEO:
   - [Akshobhya Mantra 不動佛心咒](https://www.youtube.com/watch?v=boYfq57H9G4)
   - [Mitrugpa Mantra](https://www.youtube.com/watch?v=HD-krq8Eqp4)
 - MP3:
