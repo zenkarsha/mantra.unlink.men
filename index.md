@@ -25,15 +25,15 @@ SATTVA NANCHA SVAHA
 ```
 
 - WIKI:
-  - (Akshobhya)[https://en.wikipedia.org/wiki/Akshobhya]
-  - (阿閦佛心咒)[https://zh.wikipedia.org/wiki/%E9%98%BF%E9%96%A6%E4%BD%9B%E5%BF%83%E5%92%92]
+  - [Akshobhya](https://en.wikipedia.org/wiki/Akshobhya)
+  - [阿閦佛心咒](https://zh.wikipedia.org/wiki/%E9%98%BF%E9%96%A6%E4%BD%9B%E5%BF%83%E5%92%92)
 - YouTube:
-  - (Akshobhya Mantra 不動佛心咒)[https://www.youtube.com/watch?v=boYfq57H9G4]
-  - (Mitrugpa Mantra)[https://www.youtube.com/watch?v=HD-krq8Eqp4]
+  - [Akshobhya Mantra 不動佛心咒](https://www.youtube.com/watch?v=boYfq57H9G4)
+  - [Mitrugpa Mantra](https://www.youtube.com/watch?v=HD-krq8Eqp4)
 - MP3:
-  - (Akshobhya Mantra 不動佛心咒)[https://u.pcloud.link/publink/show?code=XZzdHRXZW8IIpiFA22kizorVA2tQYFAWb5M7]
-  - (Mitrugpa Mantra.mp3)[https://u.pcloud.link/publink/show?code=XZ9gHRXZQTRMMruNtNzQP9Se8Tvlhy9JU4Oy]
+  - [](https://u.pcloud.link/publink/show?code=XZzdHRXZW8IIpiFA22kizorVA2tQYFAWb5M7)
+  - [Mitrugpa Mantra.mp3](https://u.pcloud.link/publink/show?code=XZ9gHRXZQTRMMruNtNzQP9Se8Tvlhy9JU4Oy)
 - PDF:
-  - (Buddha Mitrugpa Mantra)[https://fpmt.org/wp-content/uploads/education/pdfs/Buddha_Mitrugpa_Mantra.pdf]
+  - [Buddha Mitrugpa Mantra](https://fpmt.org/wp-content/uploads/education/pdfs/Buddha_Mitrugpa_Mantra.pdf)
 
 ---
