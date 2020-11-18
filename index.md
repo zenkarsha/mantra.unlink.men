@@ -42,7 +42,7 @@ SATTVA NANCHA SVAHA
 
 # 十一面觀音咒
 
-### Version.x
+### Version.1
 
 ```
 Namo Ratna Trayaya, Namah arya Jnana,
