@@ -33,9 +33,10 @@ SATTVA NANCHA SVAHA
   - [Akshobhya Mantra 不動佛心咒](https://www.youtube.com/watch?v=boYfq57H9G4)
   - [Mitrugpa Mantra](https://www.youtube.com/watch?v=HD-krq8Eqp4)
 - MP3:
-  - [](https://u.pcloud.link/publink/show?code=XZzdHRXZW8IIpiFA22kizorVA2tQYFAWb5M7)
+  - [Akshobhya Mantra 不動佛心咒.mp3](https://u.pcloud.link/publink/show?code=XZzdHRXZW8IIpiFA22kizorVA2tQYFAWb5M7)
   - [Mitrugpa Mantra.mp3](https://u.pcloud.link/publink/show?code=XZ9gHRXZQTRMMruNtNzQP9Se8Tvlhy9JU4Oy)
 - PDF:
   - [Buddha Mitrugpa Mantra](https://fpmt.org/wp-content/uploads/education/pdfs/Buddha_Mitrugpa_Mantra.pdf)
 
 ---
+
