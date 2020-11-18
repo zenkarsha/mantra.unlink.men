@@ -4,13 +4,13 @@ layout: default
 
 # 不動佛心咒
 
-**Version.1**
+### Version.1
 
 ```
 Namo Ratna Trayaya. Om. Kamkani Kamkani. Rotsani Rotsani. Trotrani Trotrani. Trasani Trasani. Pratihana Pratihana. Sarva Karma Parampara. Nime Sarva Sato (Sattva). Nantsaya Soha (Svaha).
 ```
 
-**Version.2**
+### Version.2
 ```
 NAMO RATNA TRAYAYA OM KAMKANI KAMKANI ROCHANI
 ROCHANI TROTANI TROTANI TRASANI TRASANI PRATIHANA
@@ -18,11 +18,13 @@ PRATIHANA SARVA KARMA PARAM PARA NI ME SARVA
 SATTVA NANCHA SVAHA
 ```
 
-**Chinese version**
+### Chinese version
 
 ```
 南摩。列那。乍呀呀。唵。槓嘎尼。槓嘎尼。羅渣尼。羅渣尼。卓達尼。卓達尼。乍沙尼。乍沙尼。乍帝哈納。乍帝哈納。薩哇噶瑪。巴南巴喇。納美。薩哇薩埵。念渣。梭哈。
 ```
+
+### References
 
 - WIKI:
   - [Akshobhya](https://en.wikipedia.org/wiki/Akshobhya)
