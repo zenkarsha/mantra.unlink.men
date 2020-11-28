@@ -1,3 +1,9 @@
+---
+layout: pages
+permalink: /LINK
+page_title: TITLE
+---
+
 # TITLE
 
 ### Version.x

@@ -1,0 +1,29 @@
+---
+layout: pages
+permalink: /earth-god-mantra
+page_title: 安土地真言
+---
+
+# 安土地真言
+
+```
+OM BENZAR SATO SA MA YA MA NU PA LA YA
+BENZAR SATO TE NO PA
+TISHTHA DRI DHO ME BHA WA
+SU TO KA YO ME BHA WA
+SU PO KA YO ME BHA WA
+ANU RAKTO ME BHA WA
+SARWA SIDDHIM ME PRA YATSA
+SARWA KARMA SU TSA ME
+TSITTAM SHRE YAM KU RU HUNG
+HA HA HA HA HO BHA GA WAN
+SARWA TA THA GA TA
+BENZRA MA ME MUNTSA BENZRI BHA WA MA HA
+SA MA YA SATO AH
+```
+
+### Chinese version
+
+```
+南無三滿哆。母馱喃。嗡。度魯度魯地尾。梭哈。
+```

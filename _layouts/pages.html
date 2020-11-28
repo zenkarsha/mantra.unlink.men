@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <meta name="google-site-verification" content="pYY-nO3Fs4UyCX-dW53iUc8v6y-W4alxG__oaqzEP6I" />
     <link rel="icon" type="image/png"  href="assets/img/favicon.png">
-    <title>{{ site.title | default: site.github.repository_name }}</title>
+    <title>{{ page.page_title }} - {{ site.title | default: site.github.repository_name }}</title>
     <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+TC&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="{{ '/assets/css/styles.css?v=2020043001' | relative_url }}">
     <meta name="viewport" content="width=device-width">
@@ -13,7 +13,7 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1>{{ site.title | default: site.github.repository_name }}</h1>
+        <h1><a href="/">{{ site.title | default: site.github.repository_name }}</a></h1>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         <table>
           {% for nav in site.navigation %}
