@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: pages
 permalink: /akshobhya-mantra
 page_title: 不動佛心咒
 ---
