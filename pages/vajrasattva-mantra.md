@@ -30,10 +30,16 @@ SA MA YA SATO AH
 Oṃ Vajrasatva Samaya Manupālaya, Vajrasatva Tvenopa Tiṣṭḥā, Dṛḍho Me Bhava, Sutoṣyo Me Bhava, Supoṣyo Me Bhava, Anurakto Me Bhava, Sarva Siddhimme Prayaccha, Sarva Karmasu Ca Me Cittaṃ Śriyāṃ Kuru Hūṃ, Ha Ha Ha Ha Hoḥ, Bhagavān Sarva Tathāgata Vajra Ma Me Muñca, Vajri Bhava Mahā Samaya Satva Āḥ
 ```
 
-### Chinese version
+### Chinese version 1
 
 ```
 嗡。班雜薩埵。薩瑪雅。瑪努。巴拉雅。班雜薩埵。喋諾巴。諦策。則卓。美。巴哇。蘇埵卡唷。美。巴哇。蘇波卡唷。美。巴哇。阿努拉多。美。巴哇。薩哇。悉地。美。札雅剎。薩哇。嘎瑪速。札。美。積當。希樣。咕嚕。吽。哈哈。哈哈。霍。巴嘎問。薩哇。達他嘎達。班雜。瑪。美。目雜。班支。巴哇。瑪哈。薩瑪雅。薩埵。阿
+```
+
+### Chinese version 2
+
+```
+嗡 班雜薩埵 薩瑪雅 瑪努 巴拉雅 班雜薩埵 喋諾巴 諦策 則卓 美 巴哇 蘇埵卡唷 美 巴哇 蘇波卡唷 美 巴哇 阿努拉多 美 巴哇 薩哇 悉地 瑪美 札雅剎 薩哇 嘎瑪速 札 美 積當 希樣 咕嚕 吽 哈哈 哈哈 霍 巴嘎問 薩哇 達他嘎達 班雜 瑪美 目雜 班支 巴哇 瑪哈 薩瑪雅 薩埵 阿
 ```
 
 ### References
