@@ -2,6 +2,14 @@
 layout: default
 ---
 
+# [准提神咒](/cundhi-bodhisattva-mantra)
+
+```
+namah saptanam samyaksambuddha kotinam tadyatha
+om cale cule cunde svaha
+```
+
+
 # [不動佛心咒](/akshobhya-mantra)
 
 ```
