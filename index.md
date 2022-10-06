@@ -2,6 +2,12 @@
 layout: default
 ---
 
+# [地藏菩薩滅定業真言](/mantra-of-ksitigarbha-bodhisattva)
+
+```
+Om Pra Mani Dani Svaha
+```
+
 # [准提神咒](/cundhi-bodhisattva-mantra)
 
 ```
