@@ -18,8 +18,6 @@ Om Ah Hum Vajra Guru Padma Siddhi Hum
 
 ### References
 
-- WIKI:
-  - [TITLE](LINK)
 - VIDEO:
   - [Padmasambhava Guru Rinpoche mantra](https://www.youtube.com/watch?v=zJElmjFnp8M)
   - [蓮師心咒](https://www.youtube.com/watch?v=bBETUQNRmc0)
