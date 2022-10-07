@@ -2,6 +2,13 @@
 layout: default
 ---
 
+# [六字大明咒](/om-mani-padme-hum)
+
+```
+om mani padme hum
+```
+---
+
 # [地藏菩薩滅定業真言](/mantra-of-ksitigarbha-bodhisattva)
 
 ```
