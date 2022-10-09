@@ -2,6 +2,13 @@
 layout: default
 ---
 
+# [般若波羅蜜多心咒](/the-mantra-of-prajna-paramita-heart-sutra)
+
+```
+gate gate paragate parasamgate bodhi svaha
+```
+---
+
 # [大悲咒心咒](/om-vajra-darma-hrih)
 
 ```
