@@ -2,6 +2,13 @@
 layout: default
 ---
 
+# [大悲咒心咒](/om-vajra-darma-hrih)
+
+```
+om vajra darma hrih
+```
+---
+
 # [六字大明咒](/om-mani-padme-hum)
 
 ```
