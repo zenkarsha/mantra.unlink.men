@@ -2,6 +2,13 @@
 layout: default
 ---
 
+# [光明真言](/mantra-of-light)
+
+```
+om amogha vairocana maha-mudra mani-padma jvala pravarttaya hum
+```
+---
+
 # [般若波羅蜜多心咒](/the-mantra-of-prajna-paramita-heart-sutra)
 
 ```
