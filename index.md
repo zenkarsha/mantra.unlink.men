@@ -100,17 +100,17 @@ om ara pa za na di
 # [蓮師金剛七句](/seven-line-prayer-to-guru-rinpoche)
 
 ```
-吽
+hung
 
-鄔金耶潔呢向燦
-班瑪給薩東波拉
-雅燦卻格哦哲尼
-班瑪炯內義色紮
-括德喀卓芒布果
-切潔吉色達哲傑
-辛吉洛謝夏色索
+orgyen yul gyi nubjang tsam
+pema gesar dongpo la
+yatsen chok gi ngodrub nye
+pema jungne shye su drak
+khor du khandro mangpo kor
+khye kyi jesu dak drub kyi
+jingyi lab chir shek su sol
 
-格熱班瑪色德吽
+guru pema siddhi hung
 ```
 
 ---

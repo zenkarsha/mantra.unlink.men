@@ -6,6 +6,20 @@ page_title: 蓮師金剛七句
 
 # 蓮師金剛七句
 
+```
+hung
+
+orgyen yul gyi nubjang tsam
+pema gesar dongpo la
+yatsen chok gi ngodrub nye
+pema jungne shye su drak
+khor du khandro mangpo kor
+khye kyi jesu dak drub kyi
+jingyi lab chir shek su sol
+
+guru pema siddhi hung
+```
+
 ### 藏文音譯
 
 ```
