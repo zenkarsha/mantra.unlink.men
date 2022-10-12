@@ -7,7 +7,7 @@ page_title: 蓮花生大士心咒
 # 蓮花生大士心咒
 
 ```
-Om Ah Hum Vajra Guru Padma Siddhi Hum
+om ah hum vajra guru padma siddhi hum
 ```
 
 ### Chinese version

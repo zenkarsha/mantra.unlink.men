@@ -7,7 +7,7 @@ page_title: 文殊菩薩心咒
 # 文殊菩薩心咒
 
 ```
-Om Ara Pa Za Na Di
+om ara pa za na di
 ```
 
 ### Chinese version

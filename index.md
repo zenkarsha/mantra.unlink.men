@@ -33,7 +33,7 @@ om mani padme hum
 # [地藏菩薩滅定業真言](/mantra-of-ksitigarbha-bodhisattva)
 
 ```
-Om Pra Mani Dani Svaha
+om pra mani dani svaha
 ```
 
 # [准提神咒](/cundhi-bodhisattva-mantra)
@@ -47,10 +47,10 @@ om cale cule cunde svaha
 # [不動佛心咒](/akshobhya-mantra)
 
 ```
-NAMO RATNA TRAYAYA OM KAMKANI KAMKANI ROCHANI
-ROCHANI TROTANI TROTANI TRASANI TRASANI PRATIHANA
-PRATIHANA SARVA KARMA PARAM PARA NI ME SARVA
-SATTVA NANCHA SVAHA
+namo ratna trayaya om kamkani kamkani rochani
+rochani trotani trotani trasani trasani pratihana
+pratihana sarva karma param para ni me sarva
+sattva nancha svaha
 ```
 
 ---
@@ -58,15 +58,15 @@ SATTVA NANCHA SVAHA
 # [十一面觀音咒](/arya-ekadasa-mukha-dharani)
 
 ```
-Namo Ratna Trayaya, Namah arya Jnana,
-Sagara Vairocana Vyuha Rajaya Tathagataya,
-Arhate Samyak Sambuddhaya,
-Namah Sarva Tathagatebyah Arhatebyah,
-Samyaksambuddhe Byah Namah Arya Avalokite,
-Svaraya Boddhisattvaya, Mahasattvaya Mahakarunikaya,
-Tadyatha Om Dhara Dhara, Dhiri Dhiri, Dhuru Dhuru,
-Ite Vatte Cale Cale, Pra Cale Pra Cale,
-Kusume Kusume Vare Ili Mili Citijvala mapanaye Svaha
+namo ratna trayaya, namah arya jnana,
+sagara vairocana vyuha rajaya tathagataya,
+arhate samyak sambuddhaya,
+namah sarva tathagatebyah arhatebyah,
+samyaksambuddhe byah namah arya avalokite,
+svaraya boddhisattvaya, mahasattvaya mahakarunikaya,
+tadyatha om dhara dhara, dhiri dhiri, dhuru dhuru,
+ite vatte cale cale, pra cale pra cale,
+kusume kusume vare ili mili citijvala mapanaye svaha
 ```
 
 ---
@@ -74,7 +74,17 @@ Kusume Kusume Vare Ili Mili Citijvala mapanaye Svaha
 # [金剛薩埵百字明咒](/vajrasattva-mantra)
 
 ```
-Oṃ Vajrasatva Samaya Manupālaya, Vajrasatva Tvenopa Tiṣṭḥā, Dṛḍho Me Bhava, Sutoṣyo Me Bhava, Supoṣyo Me Bhava, Anurakto Me Bhava, Sarva Siddhimme Prayaccha, Sarva Karmasu Ca Me Cittaṃ Śriyāṃ Kuru Hūṃ, Ha Ha Ha Ha Hoḥ, Bhagavān Sarva Tathāgata Vajra Ma Me Muñca, Vajri Bhava Mahā Samaya Satva Āḥ
+om vajrasatva samaya manupalaya
+vajrasatva tvenopa tistha
+drdho me bhava
+sutosyo me bhava
+suposyo me bhava
+anurakto me bhava
+sarva siddhimme prayaccha
+sarva karmasu ca me cittam sriyam kuru hum
+ha ha ha ha hoh
+bhagavan sarva tathagata vajra ma me munca
+vajri bhava maha samaya satva ah
 ```
 
 ---
@@ -82,7 +92,7 @@ Oṃ Vajrasatva Samaya Manupālaya, Vajrasatva Tvenopa Tiṣṭḥā, Dṛḍho 
 # [文殊菩薩心咒](/manjushri-mantra)
 
 ```
-Om Ara Pa Za Na Di
+om ara pa za na di
 ```
 
 ---
@@ -108,7 +118,7 @@ Om Ara Pa Za Na Di
 # [蓮花生大士心咒](padmasambhava-guru-rinpoche-mantra)
 
 ```
-Om Ah Hum Vajra Guru Padma Siddhi Hum
+om ah hum vajra guru padma siddhi hum
 ```
 
 ---
@@ -116,8 +126,8 @@ Om Ah Hum Vajra Guru Padma Siddhi Hum
 # [藥師佛心咒](/medicine-buddha-dharani)
 
 ```
-Tayata Om Bekandze Bekandze
-Maha Bekandze Radza Samudgate Soha
+tayata om bekandze bekandze
+maha bekandze radza samudgate soha
 ```
 
 ---
@@ -125,9 +135,9 @@ Maha Bekandze Radza Samudgate Soha
 # [觀音九本尊心咒](/mantra-of-nine-deities)
 
 ```
-Om Mani Padme Hum Hrih Dhumaghaye Hayagriva Varahi
-Kukulle Dhakini Mahadeva Umadevi Citta Hring Hring Guhya
-Siddhi Hum Jah
+om mani padme hum hrih dhumaghaye hayagriva varahi
+kukulle dhakini mahadeva umadevi citta hring hring guhya
+siddhi hum jah
 ```
 
 ---
@@ -135,7 +145,7 @@ Siddhi Hum Jah
 # [咕嚕咕咧佛母心咒](/kurukulle-mantra)
 
 ```
-Om Kuru Kulle Hrih Svaha
+om kuru kulle hrih svaha
 ```
 
 ---
@@ -143,7 +153,7 @@ Om Kuru Kulle Hrih Svaha
 # [大黑天神咒](/mahakala-mantra)
 
 ```
-Namo Samanta Buddhanam Om Mahakalaya Svaha
+namo samanta buddhanam om mahakalaya svaha
 ```
 
 ---
@@ -151,5 +161,5 @@ Namo Samanta Buddhanam Om Mahakalaya Svaha
 # [安土地真言](/earth-god-mantra)
 
 ```
-Namah Samanda Budtanam Om Duru Duru Diwi Swaha
+namah samanda budtanam om duru duru diwi swaha
 ```

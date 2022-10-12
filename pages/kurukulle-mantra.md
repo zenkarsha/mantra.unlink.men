@@ -7,7 +7,7 @@ page_title: 咕嚕咕咧佛母心咒
 # 咕嚕咕咧佛母心咒
 
 ```
-Om Kuru Kulle Hrih Svaha
+om kuru kulle hrih svaha
 ```
 
 ### Chinese version

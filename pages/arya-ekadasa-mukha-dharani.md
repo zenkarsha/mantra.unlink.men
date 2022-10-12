@@ -7,15 +7,15 @@ page_title: 十一面觀音咒
 # 十一面觀音咒
 
 ```
-Namo Ratna Trayaya, Namah arya Jnana,
-Sagara Vairocana Vyuha Rajaya Tathagataya,
-Arhate Samyak Sambuddhaya,
-Namah Sarva Tathagatebyah Arhatebyah,
-Samyaksambuddhe Byah Namah Arya Avalokite,
-Svaraya Boddhisattvaya, Mahasattvaya Mahakarunikaya,
-Tadyatha Om Dhara Dhara, Dhiri Dhiri, Dhuru Dhuru,
-Ite Vatte Cale Cale, Pra Cale Pra Cale,
-Kusume Kusume Vare Ili Mili Citijvala mapanaye Svaha
+namo ratna trayaya, namah arya jnana,
+sagara vairocana vyuha rajaya tathagataya,
+arhate samyak sambuddhaya,
+namah sarva tathagatebyah arhatebyah,
+samyaksambuddhe byah namah arya avalokite,
+svaraya boddhisattvaya, mahasattvaya mahakarunikaya,
+tadyatha om dhara dhara, dhiri dhiri, dhuru dhuru,
+ite vatte cale cale, pra cale pra cale,
+kusume kusume vare ili mili citijvala mapanaye svaha
 ```
 
 ### Chinese version

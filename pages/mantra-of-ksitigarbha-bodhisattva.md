@@ -7,7 +7,7 @@ page_title: 地藏菩薩滅定業真言
 # 地藏菩薩滅定業真言
 
 ```
-Om Pra Mani Dani Svaha
+om pra mani dani svaha
 ```
 
 ### Chinese version

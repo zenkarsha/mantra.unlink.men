@@ -9,15 +9,15 @@ page_title: 不動佛心咒
 ### Version.1
 
 ```
-Namo Ratna Trayaya. Om. Kamkani Kamkani. Rotsani Rotsani. Trotrani Trotrani. Trasani Trasani. Pratihana Pratihana. Sarva Karma Parampara. Nime Sarva Sato (Sattva). Nantsaya Soha (Svaha).
+namo ratna trayaya. om. kamkani kamkani. rotsani rotsani. trotrani trotrani. trasani trasani. pratihana pratihana. sarva karma parampara. nime sarva sato (sattva). nantsaya soha (svaha).
 ```
 
 ### Version.2
 ```
-NAMO RATNA TRAYAYA OM KAMKANI KAMKANI ROCHANI
-ROCHANI TROTANI TROTANI TRASANI TRASANI PRATIHANA
-PRATIHANA SARVA KARMA PARAM PARA NI ME SARVA
-SATTVA NANCHA SVAHA
+namo ratna trayaya om kamkani kamkani rochani
+rochani trotani trotani trasani trasani pratihana
+pratihana sarva karma param para ni me sarva
+sattva nancha svaha
 ```
 
 ### Chinese version

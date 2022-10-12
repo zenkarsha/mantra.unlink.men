@@ -7,7 +7,7 @@ page_title: 大黑天神咒
 # 大黑天神咒
 
 ```
-Namo Samanta Buddhanam Om Mahakalaya Svaha
+namo samanta buddhanam om mahakalaya svaha
 ```
 
 ### Chinese version

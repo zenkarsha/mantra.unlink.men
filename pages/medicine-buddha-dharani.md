@@ -9,18 +9,18 @@ page_title: 藥師佛心咒
 ### Version.1
 
 ```
-Tayata
-Om Bekandze Bekandze
-Maha Bekandze
-Radza Samudgate Soha
+tayata
+om bekandze bekandze
+maha bekandze
+radza samudgate soha
 ```
 
 ### Version.2
 
 ```
-Namo Bhagavate Bhaisajya Guru Vailurya Prabha Rajaya
-Tathagataya Arhate Samyaksam Buddhaya Tadyatha
-Om Bhaisajye Bhaisajye Bhaisajya Samudgate Svaha
+namo bhagavate bhaisajya guru vailurya prabha rajaya
+tathagataya arhate samyaksam buddhaya tadyatha
+om bhaisajye bhaisajye bhaisajya samudgate svaha
 ```
 
 ### Chinese version.1

@@ -21,9 +21,9 @@ si de hum za
 ### Version.2
 
 ```
-Om Mani Padme Hum Hrih Dhumaghaye Hayagriva Varahi
-Kukulle Dhakini Mahadeva Umadevi Citta Hring Hring Guhya
-Siddhi Hum Jah
+om mani padme hum hrih dhumaghaye hayagriva varahi
+kukulle dhakini mahadeva umadevi citta hring hring guhya
+siddhi hum jah
 ```
 
 ### Chinese version
