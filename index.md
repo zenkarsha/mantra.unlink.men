@@ -2,6 +2,16 @@
 layout: default
 ---
 
+# [緣起咒](/dependent-arising-mantra)
+
+```
+OM YE DHARMA HETU-TRABHAVA
+HETUM TEKHAN TATHAGATO HYAVADAT
+TESKHAN CAI YO NIRODHA
+EVAM VADI MAHASRAMANAH YE SVAHA
+```
+---
+
 # [光明真言](/mantra-of-light)
 
 ```
